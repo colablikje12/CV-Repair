@@ -4,11 +4,14 @@ Craftville repair plugin
 Repair clothes with this plugin, permission: CV.Repair
 
 Sign layout
-first line: empty
-second line: Repair
-third line: empty
-fourth line: empty
 
+first line: empty
+
+second line: Repair
+
+third line: empty
+
+fourth line: empty
 
 
 License: MIT License
