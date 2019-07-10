@@ -4,9 +4,9 @@ Craftville repair plugin
 Zorgt ervoor dat alleen kleding gerepareerd kan worden en niet bijv wapens.
 
 Sign moet er als volgt uitzien
-==============================
-|                            |
-|          Repair            |
-|                            | 
-|                            | 
-==============================
+
+1                            
+2          Repair          
+3
+4                          
+
