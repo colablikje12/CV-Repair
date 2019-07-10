@@ -1,20 +1,12 @@
 # CV-Repair
 Craftville repair plugin
 
-Repair clothes with this plugin, permission: CV.Repair
+Zorgt ervoor dat alleen kleding gerepareerd kan worden en niet bijv wapens.
 
-Sign layout
-
-first line: empty
-
-second line: Repair
-
-third line: empty
-
-fourth line: empty
-
-
-License: MIT License
-Good luck, found some bugs let me know
-
-Wanring: Every message is dutch
+Sign moet er als volgt uitzien
+==============================
+|                            |
+|          Repair            |
+|                            | 
+|                            | 
+==============================
